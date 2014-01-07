@@ -1,0 +1,7 @@
+1.Install sqlite3
+	/usr/bin/sqlite3
+2. Download Sqlite driver from http://www.zentus.com/sqlitejdbc/
+	put it under ~/.groovy/lib
+3. run groovy ConvertBlogXMLtoSqlite.groovy
+
+this generate db/hisstory.db

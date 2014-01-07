@@ -1,0 +1,17 @@
+blog_Article
+
+log_ID
+log_CateID
+log_AuthorID
+log_Level
+log_Url
+log_Title
+log_Intro
+log_Content
+log_IP
+log_PostTime
+log_CommNums
+log_ViewNums
+log_TrackBackNums
+log_Tag
+log_IsTop
